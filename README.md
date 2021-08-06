@@ -1,2 +1,2 @@
 # QT_app
-Yandex.Lyceum project/ First try on python qt
+Эмитация работы кинотеатра, первый простой проект, щупаю qt
